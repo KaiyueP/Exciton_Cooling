@@ -1,0 +1,4 @@
+step1: ini_dis_gene.py: Generate initial population condition as a gaussian distribution.
+step2: sPTRE_acc.py: perform PT sRE to generate the population dynamics
+step3: abs-time_d.py: plot population change and absorption signal change
+step4: Loss_rate.py: generate energy relaxation rate
